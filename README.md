@@ -1,3 +1,20 @@
+![Untitled-3](design.png)
+# **SUSTAINABLE FUTURES**
+
+
+**DESIGN.EXE designathon 2025**
+
+Sustainable Futures is an eco-conscious startup committed to building a greener tomorrow through innovative, sustainable product design. We believe in creating everyday solutions that reduce environmental impact and encourage mindful living. Our mission is to blend technology and sustainability into smart products that help individuals make eco-friendly choices effortlessly.
+i wanted to showcase 3 products firstly a bathroom companion which calms a person down, helping them with their deed, secondly i introduce a showerhead which optimizes how much water a person uses to reduce water wastage and thirdly i introduce a app which optimizes piss timings so that again water wastage can be reduced.
+
+
+## **Link to figma file**
+[FIGMA LINK HERE](https://www.figma.com/design/7jUYxaXL0HrGfOuwpLMXEZ/sustainbale-futures?node-id=0-1&t=Iy3uNt9hFy26pCFo-1)
+
+## **Hosted url**
+[HOSTED LINK HERE](https://eco-flow-launch-pad.lovable.app/)
+
+## **Installation**
 
 
 **Use your preferred IDE**
@@ -15,11 +32,7 @@ git clone <YOUR_GIT_URL>
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
 ```
 
 **Edit a file directly in GitHub**
@@ -50,4 +63,15 @@ This project is built with:
 
 
 
- 
+
+
+## **Steps to run**  
+```
+# Step 1: Install the necessary dependencies.
+npm i
+
+# Step 2: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+## **Acknowledgements**
+i give all my credits to lovable ,claude ai and everything literally everything.
