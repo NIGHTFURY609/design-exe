@@ -8,6 +8,12 @@
 Sustainable Futures is an eco-conscious startup committed to building a greener tomorrow through innovative, sustainable product design. We believe in creating everyday solutions that reduce environmental impact and encourage mindful living. Our mission is to blend technology and sustainability into smart products that help individuals make eco-friendly choices effortlessly.
 i wanted to showcase 3 products firstly a bathroom companion which calms a person down, helping them with their deed, secondly i introduce a showerhead which optimizes how much water a person uses to reduce water wastage and thirdly i introduce a app which optimizes piss timings so that again water wastage can be reduced.
 
+**For the design aesthetic**
+
+Color palette: Soft greens (#3E6259, #A4C3B2), natural beiges (#EAF4F4, #F6FFF8), and accent orange (#F97316) for CTAs
+Typography: Clean sans-serif fonts (Poppins for headings, Inter for body text)
+Visual elements: Leaf patterns, water droplet graphics, and circular design elements
+Animations: Subtle fade-ins and hover effects for interactive elements
 
 ## **Link to figma file**
 [FIGMA LINK HERE](https://www.figma.com/design/7jUYxaXL0HrGfOuwpLMXEZ/sustainbale-futures?node-id=0-1&t=Iy3uNt9hFy26pCFo-1)
